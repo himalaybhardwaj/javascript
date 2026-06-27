@@ -19,3 +19,9 @@ console.table([ accountId,account_email,account_password,accountcity]);
 prefer not to use var 
 because of block scope and fuynctional scope
 */
+
+let name = "himalay";
+let designation ="software eengineer intern";
+let salary = 25000;
+
+console.table([name,designation,salary]);
